@@ -1,0 +1,47 @@
+.form-sec{
+    width: 50%;
+    margin: 50px auto;
+}
+.form-div form{
+    display: flex;
+    flex-direction: column;
+}
+.h-head h1{
+    text-align: center;
+    font-size: 1.9em;
+}
+table{
+    border: 1px solid #ccc;
+    width: 100%;
+    margin-top: 10px;
+}
+th , .td-sty{
+    text-align: left;
+    padding: 8px;
+}
+.a-sty{
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 2px 5px;
+}
+input{
+    padding: 8px;
+    margin: 10px 0; 
+}
+.submit-btn{
+    padding: 10px;
+}
+.warning{
+    /* width: 100%; */
+    background-color: red;
+    color: #fff;
+    padding: 8px;
+    margin: 10px 0;
+}
+.succes{
+    background-color: green;
+    color: #fff;
+    padding: 8px;
+    margin: 10px 0;
+}
